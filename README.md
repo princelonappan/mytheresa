@@ -19,7 +19,7 @@ This application provides the following API features.
 
 First, clone the repo:
 ```bash
-$ git clone https://github.com/princelonappan/loudly-task.git
+$ git clone https://github.com/princelonappan/mytheresa.git
 ```
 
 #### Running as a Docker container
@@ -27,7 +27,7 @@ $ git clone https://github.com/princelonappan/loudly-task.git
 The following docker command will run the application.
 
 ```
-$ cd folder-name
+$ cd mytheresa
 $ docker-compose up -d
 ```
 This will start the application.
