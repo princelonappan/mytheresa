@@ -64,7 +64,6 @@ class ProductController extends AbstractController
         $filteredProducts = array('No products found');
         $maxProducts = 5;
         $i = 0;
-
         foreach ($products as $product) {
             if (count($filteredProducts) >= $maxProducts)
                 break;

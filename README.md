@@ -14,6 +14,12 @@ This application provides the following API features.
 
 - This system allows to search the products through the category and price less than parameters. 
 - Products are stored in the JSON file format.
+- Sample file added in the folder to test (src/Entity/sample.json)
+- The following assumption implements this solution - 
+  - The API will return only 5 elements that satisfy the filtering criteria (So pagination not included) 
+  - The category is a required field.
+  - The product list will not grow beyond 20,000 products.
+
 
 ## Installation
 
