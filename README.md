@@ -41,7 +41,7 @@ This will start the application.
 #### Run API Swagger
 
 You can access the Swagger API through the following end point. <br />
-```{{ base_url}}/api/doc```
+```localhost:8000/api/doc```
 
 #### Run Test
 
